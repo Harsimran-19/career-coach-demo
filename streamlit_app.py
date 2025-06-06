@@ -11,8 +11,8 @@ st.set_page_config(
 )
 
 # Configuration
-API_BASE_URL = "https://suevnzzvti.us-east-1.awsapprunner.com"
-CAREER_COACHES_API = f"{API_BASE_URL}/career-coaches"
+API_BASE_URL = "https://uapcfqiypm.us-east-1.awsapprunner.com"
+CAREER_COACHES_API = f"{API_BASE_URL}/career-coach"
 
 # Available coaches
 COACHES = {
